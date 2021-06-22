@@ -1,7 +1,6 @@
 ### Hi there 👋
 ---
 - **I'm currently working on *NoteShare*📝 - Django web app which will help with sharing school notes** 
-<br>
 - **Currently I'm learning *Django💡***
 
 
