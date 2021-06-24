@@ -7,8 +7,21 @@
 ### 💡 Currently Learning 
 - **Improving my Django skills**
 - **Django rest framework**
+- **Mastering python**
+---
+### 🔧 My Skills
+- **Python ⭐⭐⭐**
+- **PyQT5 ⭐⭐⭐**
+- **Django ⭐⭐**
+- **HTML ⭐⭐⭐**
+- **CSS ⭐⭐**
+- **JavaScript ⭐⭐**
+- **BootStrap ⭐⭐**
+- **JQuery ⭐**
+**Max 5 stars*
 
-# ***WORK IN PROGRESS***
+#WORK IN PROGRESS
+
 <!--
 **NotSoYeezy/NotSoYeezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
