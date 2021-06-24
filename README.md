@@ -33,6 +33,7 @@
 ---
 ### 💻 Stats
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=notsoyeezy" alt="WakaTime stats">
+
 ---
 
 ### 📧 How to reach me
