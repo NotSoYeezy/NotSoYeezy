@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 ---
 ### 🤙 About Me 
 - **Currently I'm working on *NoteShare*📝 - Django web app which will help with sharing school notes** 
