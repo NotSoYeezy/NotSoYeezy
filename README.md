@@ -3,11 +3,7 @@
 ### 🤙 About Me 
 - **Currently I'm working on *NoteShare*📝 - Django web app which will help with sharing school notes** 
 - **Currently I'm attending high school in Warsaw**
----
-### 💡 Currently Learning 
-- **Improving my Django skills**
-- **Django rest framework**
-- **Mastering python**
+- **I want to be a Django Web Developer**
 ---
 ### 🔧 My Skills
 - **Python ⭐⭐⭐**
@@ -21,8 +17,22 @@
 
 *Max 5 stars
 
-# WORK IN PROGRESS
+---
+### 💡 Currently Learning 
+- **Improving my Django skills**
+- **Django rest framework**
+- **Mastering python**
 
+---
+### 🔮 Planning to Learn
+- **Machine learning with Python**
+- **C++ or Java or C#**
+- **Creating more responsible webpages**
+- **Unrelational Databases (Cassandra, MongoDB)** 
+- **Creating hardware stuff with RaspberyPi**
+
+
+# WORK IN PROGRESS
 <!--
 **NotSoYeezy/NotSoYeezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
