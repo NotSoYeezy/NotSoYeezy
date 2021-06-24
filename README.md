@@ -18,8 +18,8 @@
 - **JavaScript ⭐⭐**
 - **BootStrap ⭐⭐**
 - **JQuery ⭐**
-<br>
-**Max 5 stars*
+
+*Max 5 stars
 
 # WORK IN PROGRESS
 
