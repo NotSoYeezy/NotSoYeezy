@@ -31,10 +31,6 @@
 - **Unrelational Databases (Cassandra, MongoDB)** 
 - **Creating hardware stuff with RaspberyPi**
 ---
-### 💻 Stats
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=notsoyeezy" alt="WakaTime stats">
-
----
 
 ### 📧 How to reach me
 <a href="mailto:wojdalski.dev@gmail.com">![wojdalski.dev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
