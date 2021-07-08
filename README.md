@@ -31,6 +31,9 @@
 - **Unrelational Databases (Cassandra, MongoDB)** 
 - **Creating hardware stuff with RaspberyPi**
 ---
+### 📜Hackerrank Certificates
+[Link](https://www.hackerrank.com/certificates/50cdfac78793)
 
+---
 ### 📧 How to reach me
 <a href="mailto:wojdalski.dev@gmail.com">![wojdalski.dev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
