@@ -14,6 +14,7 @@
 - **JavaScript ⭐⭐**
 - **BootStrap ⭐⭐**
 - **JQuery ⭐**
+- **SQL ⭐**
 
 *Max 5 stars
 
