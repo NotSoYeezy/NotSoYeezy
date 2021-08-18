@@ -23,6 +23,7 @@
 - **Improving my Django skills**
 - **Django rest framework**
 - **Mastering python**
+- *Docker, TDD, Travis CI*
 
 ---
 ### 🔮 Planning to Learn
