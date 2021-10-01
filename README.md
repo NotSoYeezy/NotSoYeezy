@@ -6,7 +6,7 @@
 - **I want to be a Django Web Developer**
 ---
 ### 🎯 Created Projects
-- ** Involved in creation of [First-Step](http://first-step.pl) - Erasmus+ project focused on WCAG Standard **
+- **Involved in creation of [First-Step](http://first-step.pl) - Erasmus+ project focused on WCAG Standard**
 ---
 ### 🔧 My Skills
 - **Python ⭐⭐⭐**
@@ -18,7 +18,7 @@
 - **BootStrap ⭐⭐**
 - **JQuery ⭐**
 - **SQL ⭐⭐**
-- ** WCAG Standard **
+- **WCAG Standard ⭐**
 
 *Max 5 stars
 
