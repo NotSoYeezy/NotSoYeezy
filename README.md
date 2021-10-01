@@ -5,6 +5,9 @@
 - **Currently I'm attending high school in Warsaw**
 - **I want to be a Django Web Developer**
 ---
+### 🎯 Created Projects
+- ** Involved in creation of [First-Step](http://first-step.pl) - Erasmus+ project focused on WCAG Standard **
+---
 ### 🔧 My Skills
 - **Python ⭐⭐⭐**
 - **PyQT5 ⭐⭐⭐**
@@ -14,7 +17,8 @@
 - **JavaScript ⭐⭐**
 - **BootStrap ⭐⭐**
 - **JQuery ⭐**
-- **SQL ⭐**
+- **SQL ⭐⭐**
+- ** WCAG Standard **
 
 *Max 5 stars
 
