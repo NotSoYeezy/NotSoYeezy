@@ -10,14 +10,14 @@
 ---
 ### 🔧 My Skills
 - **Python ⭐⭐⭐**
+- **Django ⭐⭐⭐**
 - **PyQT5 ⭐⭐⭐**
-- **Django ⭐⭐**
 - **HTML ⭐⭐⭐**
 - **CSS ⭐⭐**
 - **JavaScript ⭐⭐**
 - **BootStrap ⭐⭐**
-- **JQuery ⭐**
 - **SQL ⭐⭐**
+- **JQuery ⭐**
 - **WCAG Standard ⭐**
 
 *Max 5 stars
