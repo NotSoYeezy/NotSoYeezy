@@ -29,6 +29,7 @@
 - **Django rest framework**
 - **Mastering python**
 - **Docker, TDD, Travis CI**
+- **Django Channels**
 
 ---
 ### 🔮 Planning to Learn
