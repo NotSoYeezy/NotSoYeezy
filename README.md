@@ -6,7 +6,8 @@
 - **I want to be a Django Web Developer**
 ---
 ### 🎯 Created Projects
-- **Involved in creation of [First-Step](http://first-step.pl) - Erasmus+ project focused on WCAG Standard**
+- **Involved in creation of [First-Step](http://first-step.pl) → Erasmus+ project focused on WCAG Standard**
+- **Created [NoteShare](https://github.com/NotSoYeezy/django-NoteShare) → Django note sharing web app**
 ---
 ### 🔧 My Skills
 - **Python ⭐⭐⭐**
