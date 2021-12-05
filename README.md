@@ -35,7 +35,7 @@
 ### 🔮 Planning to Learn
 - **Machine learning with Python**
 - **C++ or Java or C#**
-- **Creating more responsible webpages**
+- **Creating more responsive webpages**
 - **Unrelational Databases (Cassandra, MongoDB)** 
 - **Creating hardware stuff with RaspberyPi**
 ---
