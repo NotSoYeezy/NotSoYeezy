@@ -3,7 +3,7 @@
 ### 🤙 About Me 
 - **Currently I'm working on *NoteShare*📝 - Django web app which will help with sharing school notes** 
 - **Currently I'm attending high school in Warsaw**
-- **I want to be a Django Web Developer**
+- **Aspiring Django dev**
 ---
 ### 🎯 Created Projects
 - **Involved in creation of [First-Step](http://first-step.pl) → Erasmus+ project focused on WCAG Standard**
