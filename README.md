@@ -1,7 +1,7 @@
 # Hi there 👋
 ---
 ### 🤙 About Me 
-- **Currently I'm working on *NoteShare*📝 - Django web app which will help with sharing school notes** 
+- **Currently learning Django Rest Framework**
 - **Currently I'm attending high school in Warsaw**
 - **Aspiring Django dev**
 ---
