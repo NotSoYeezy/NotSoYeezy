@@ -1,43 +1,44 @@
 # Hi there 👋
 ---
 ### 🤙 About Me 
-- **Currently learning Django Rest Framework**
+- **Currently learning Django Rest Framework and Flutter**
 - **Currently I'm attending high school in Warsaw**
-- **Aspiring Django dev**
+- **Aspiring Django/Flutter dev**
 ---
 ### 🎯 Created Projects
 - **Involved in creation of [First-Step](http://first-step.pl) → Erasmus+ project focused on WCAG Standard**
 - **Created [NoteShare](https://github.com/NotSoYeezy/django-NoteShare) → Django note sharing web app**
 ---
 ### 🔧 My Skills
-- **Python ⭐⭐⭐**
-- **Django ⭐⭐⭐**
-- **PyQT5 ⭐⭐⭐**
-- **HTML ⭐⭐⭐**
-- **CSS ⭐⭐**
-- **JavaScript ⭐⭐**
-- **BootStrap ⭐⭐**
-- **SQL ⭐⭐**
-- **JQuery ⭐**
-- **WCAG Standard ⭐**
+- **Python ⭐⭐⭐⭐⭐⭐⭐**
+- **Django ⭐⭐⭐⭐⭐⭐**
+- **PyQT5 ⭐⭐⭐⭐⭐**
+- **HTML ⭐⭐⭐⭐⭐**
+- **CSS ⭐⭐⭐⭐**
+- **JavaScript ⭐⭐⭐⭐**
+- **BootStrap ⭐⭐⭐**
+- **SQL ⭐⭐⭐**
+- **JQuery ⭐⭐**
+- **WCAG Standard ⭐⭐**
 
-*Max 5 stars
+*Max 8 stars
 
 ---
 ### 💡 Currently Learning 
 - **Improving my Django skills**
 - **Django rest framework**
 - **Mastering python**
-- **Docker, TDD, Travis CI**
+- **Flutter**
+- **Modelling in Blender**
 - **Django Channels**
 
 ---
 ### 🔮 Planning to Learn
 - **Machine learning with Python**
-- **C++ or Java or C#**
 - **Creating more responsive webpages**
 - **Unrelational Databases (Cassandra, MongoDB)** 
 - **Creating hardware stuff with RaspberyPi**
+- **Web 3 technologies**
 ---
 ### 📜Hackerrank Certificates
 [Link](https://www.hackerrank.com/certificates/50cdfac78793)
