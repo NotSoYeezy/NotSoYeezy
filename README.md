@@ -8,7 +8,7 @@
 ### 🎯 Created Projects
 - **Involved in creation of [First-Step](http://first-step.pl) → Erasmus+ project focused on WCAG Standard**
 - **Created [NoteShare](https://github.com/NotSoYeezy/django-NoteShare) → Django note sharing web app**
-- **Created [ZielonoNam Blog](https://github.com/NotSoYeezy/ZielonoNam_Blog) -> Blog App made for Polish contest "Zwolnieni z Teorii", with Django**
+- **Created [ZielonoNam Blog](https://github.com/NotSoYeezy/ZielonoNam_Blog) → Blog App made for Polish contest "Zwolnieni z Teorii", with Django**
 ---
 ### 🔧 My Skills
 - **Python ⭐⭐⭐⭐⭐**
