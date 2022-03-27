@@ -1,7 +1,7 @@
 # Hi there 👋
 ---
 ### 🤙 About Me 
-- **Currently learning Django Rest Framework and Flutter**
+- **Currently learning Flutter and 3D Modelling in Blender**
 - **Currently I'm attending high school in Warsaw**
 - **Aspiring Django/Flutter dev**
 ---
@@ -31,7 +31,7 @@
 - **Mastering python**
 - **Flutter**
 - **Modelling in Blender**
-- **Django Channels**
+- **Working with Heroku**
 
 ---
 ### 🔮 Planning to Learn
