@@ -11,10 +11,10 @@
 - **Created [ZielonoNam Blog](https://github.com/NotSoYeezy/ZielonoNam_Blog) -> Blog App made for Polish contest "Zwolnieni z Teorii", with Django**
 ---
 ### 🔧 My Skills
-- **Python ⭐⭐⭐⭐⭐⭐⭐**
-- **Django ⭐⭐⭐⭐⭐⭐**
-- **PyQT5 ⭐⭐⭐⭐⭐**
-- **HTML ⭐⭐⭐⭐⭐**
+- **Python ⭐⭐⭐⭐⭐**
+- **Django ⭐⭐⭐⭐⭐**
+- **PyQT5 ⭐⭐⭐⭐**
+- **HTML ⭐⭐⭐⭐**
 - **CSS ⭐⭐⭐⭐**
 - **JavaScript ⭐⭐⭐⭐**
 - **BootStrap ⭐⭐⭐**
