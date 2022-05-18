@@ -31,7 +31,7 @@
 - **Mastering python**
 - **Flutter**
 - **Modelling in Blender**
-- **Working with Heroku**
+- **Web3 development in Solidity**
 
 ---
 ### 🔮 Planning to Learn
