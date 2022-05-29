@@ -1,7 +1,7 @@
 # Hi there 👋
 ---
 ### 🤙 About Me 
-- **Currently learning Flutter and 3D Modelling in Blender**
+- **Currently learning Flutter, 3D Modelling in Blender and Solidity**
 - **Currently I'm attending high school in Warsaw**
 - **Aspiring Django/Flutter dev**
 ---
@@ -11,16 +11,15 @@
 - **Created [ZielonoNam Blog](https://github.com/NotSoYeezy/ZielonoNam_Blog) → Blog App made for Polish contest "Zwolnieni z Teorii", with Django**
 ---
 ### 🔧 My Skills
-- **Python ⭐⭐⭐⭐⭐**
-- **Django ⭐⭐⭐⭐⭐**
-- **PyQT5 ⭐⭐⭐⭐**
-- **HTML ⭐⭐⭐⭐**
-- **CSS ⭐⭐⭐⭐**
-- **JavaScript ⭐⭐⭐⭐**
+- **Python ⭐⭐⭐⭐**
+- **Django ⭐⭐⭐⭐**
+- **PyQT5 ⭐⭐⭐**
+- **HTML ⭐⭐⭐**
+- **CSS ⭐⭐⭐**
+- **JavaScript ⭐⭐⭐**
 - **BootStrap ⭐⭐⭐**
-- **SQL ⭐⭐⭐**
-- **JQuery ⭐⭐**
-- **WCAG Standard ⭐⭐**
+- **SQL ⭐⭐**
+- **WCAG Standard ⭐⭐⭐**
 
 *Max 8 stars
 
